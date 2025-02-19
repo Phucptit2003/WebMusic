@@ -38,7 +38,7 @@ function Navigation({ isLoaded }) {
             </NavLink>
             <a
               id="nav-github"
-              href="https://github.com/V3RS/SoundCloud-Clone"
+              href="https://github.com/Phucptit2003/WebMusic"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -52,7 +52,7 @@ function Navigation({ isLoaded }) {
             </div>
             <a
               id="nav-linkedin"
-              href="https://www.linkedin.com/in/veerkaran-singh-45b4a9190/"
+              href="#/"
               target="_blank"
               rel="noopener noreferrer"
             >

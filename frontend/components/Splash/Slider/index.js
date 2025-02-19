@@ -98,12 +98,12 @@ export default function Slider() {
           </p>
           <span id="slider1btns">
             <a
-              href="https://www.linkedin.com/in/veerkaran-singh-45b4a9190/"
+              href="https://github.com/Phucptit2003/WebMusic"
               target="_blank"
               rel="noopener noreferrer"
               id="slider1btn1"
             >
-              Meet The Dev
+              Project Repository
             </a>
             <>
               <button id="slider1btn2" onClick={() => dispatch(openLogin())}>
